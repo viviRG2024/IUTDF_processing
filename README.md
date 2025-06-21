@@ -2,8 +2,6 @@
 
 A comprehensive framework for processing and analyzing the relationship between urban traffic flow and weather data, with a particular focus on rainfall. This project provides a complete workflow from data collection and processing to analysis and visualization, helping researchers understand how rainfall impacts urban traffic patterns.
 
-Dataset Avaibale [Link](https://drive.google.com/drive/folders/1gaaqQSwLy7aojxeW1pWW9S7Ovzz8sFAB?usp=sharing)
-
 ## Project Overview
 
 Urban traffic flow is influenced by various factors, with weather conditions (especially rainfall) being an important but often underestimated variable. This framework integrates:
@@ -13,6 +11,13 @@ Urban traffic flow is influenced by various factors, with weather conditions (es
 - High-precision rainfall and weather data (from ERA5)
 
 Through the integration and analysis of these datasets, the complex relationships between rainfall intensity, timing, and traffic flow can be revealed, providing scientific basis for urban traffic management and planning.
+
+## Dataset Availability
+
+The dataset associated with this project can be accessed via the following link:
+
+[👉 Download the dataset](https://drive.google.com/drive/folders/1gaaqQSwLy7aojxeW1pWW9S7Ovzz8sFAB?usp=sharing)
+This dataset includes urban traffic flow data combined with weather observations, with a particular emphasis on rainfall conditions. If you encounter any issues, feel free to raise an issue in this repository.
 
 ## Key Features
 
