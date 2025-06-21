@@ -6,9 +6,9 @@ A comprehensive framework for processing and analyzing the relationship between 
 
 Urban traffic flow is influenced by various factors, with weather conditions (especially rainfall) being an important but often underestimated variable. This framework integrates:
 
-- City road network data (from OpenStreetMap)
-- Real-time traffic sensor data
-- High-precision rainfall and weather data (from ERA5)
+- City road network data
+- Real-time traffic sensor data 
+- High-precision rainfall and weather data
 
 Through the integration and analysis of these datasets, the complex relationships between rainfall intensity, timing, and traffic flow can be revealed, providing scientific basis for urban traffic management and planning.
 
