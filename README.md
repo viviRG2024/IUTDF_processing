@@ -1,4 +1,4 @@
-# IUTFD: Integrated Urban Traffic Flow & Weather Data Framework
+![image](https://github.com/user-attachments/assets/d700811c-c494-4d98-9754-4f78a0db3af2)# IUTFD: Integrated Urban Traffic Flow & Weather Data Framework
 
 A comprehensive framework for processing and analyzing the relationship between urban traffic flow and weather data, with a particular focus on rainfall. This project provides a complete workflow from data collection and processing to analysis and visualization, helping researchers understand how rainfall impacts urban traffic patterns.
 
@@ -16,7 +16,7 @@ Through the integration and analysis of these datasets, the complex relationship
 
 The dataset associated with this project can be accessed via the following link:
 
-[Download the dataset](https://drive.google.com/drive/folders/1gaaqQSwLy7aojxeW1pWW9S7Ovzz8sFAB?usp=sharing)
+[Download the dataset](https://drive.google.com/drive/folders/1gaaqQSwLy7aojxeW1pWW9S7Ovzz8sFAB?usp=drive_link)
 
 This dataset includes urban traffic flow data combined with weather observations, with a particular emphasis on rainfall conditions. If you encounter any issues, feel free to raise an issue in this repository.
 
