@@ -141,4 +141,4 @@ Issue reports and code contributions are welcome. Please ensure you follow the p
 
 ## License
 
-MIT Lisence
+GNU General Public License v.3
