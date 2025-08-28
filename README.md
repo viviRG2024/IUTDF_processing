@@ -70,6 +70,8 @@ This dataset includes urban traffic flow data combined with weather observations
 │   ├── rainfall_timing_offset.py # 3-hour before/after rainfall analysis
 │   ├── rainfall_intensity_impact.py # Rainfall intensity impact on traffic
 │   └── rainfall_intensity_timing_impact.py # Final comprehensive analysis
+│   └── run_sensor_coverage_analysis.py # Calculate spatial coverage of roads
+│   └── sensitivity_analysis.py # Run sensitivity analysis for selected parameters.
 │
 └── data/                      # Data directory (not included in repo)
     └── debug/
